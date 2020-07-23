@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/jasongaare/react-native-walkthrough#readme",
   "dependencies": {
-    "events": "3.0.0"
+    "events": "3.0.0",
+    "react-native-walkthrough-tooltip": "^0.6.1"
   },
   "peerDependencies": {
     "react": "^16.4.1",
-    "react-native": "^0.56.0",
-    "react-native-walkthrough-tooltip": "^0.6.1"
+    "react-native": "^0.56.0"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "^1.0.0",
